@@ -1,0 +1,1 @@
+from gym_squeeze.envs.squeeze_env import SqueezeEnv

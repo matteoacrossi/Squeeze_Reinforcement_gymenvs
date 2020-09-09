@@ -1,0 +1,1 @@
+from gym_squeezeqdiscrete.envs.squeeze_envqdiscrete import SqueezeEnvqdiscrete
